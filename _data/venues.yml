@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"arXiv":
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ML4Sciences":
+  url: https://ml4physicalsciences.github.io
 
-"Vision":
-  color: "#009f36"
+"JOSS":
+  url: https://joss.theoj.org
+
+"ICML":
+
+"SC":
