@@ -4,18 +4,18 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Lucas
-middle_name: 
+middle_name:
 last_name: Meyer
-email: 
-description: 
-footer_text: 
+email:
+description:
+footer_text:
 keywords: # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 📚  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 📚 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ltmeyer.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -82,17 +82,17 @@ instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: lucas-meyer-a7983b103  # your LinkedIn user name
+linkedin_username: lucas-meyer-a7983b103 # your LinkedIn user name
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 medium_username: # your Medium username
-orcid_id: 0000-0001-5386-5997  # your ORCID ID
+orcid_id: 0000-0001-5386-5997 # your ORCID ID
 osf_id: # your OSF ID
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 spotify_id: # your spotify id
-scholar_userid:  dP34hRYAAAAJ  # your Google Scholar ID
+scholar_userid: dP34hRYAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 stackoverflow_id: # your stackoverflow id
 telegram_username: # your Telegram user name
@@ -105,7 +105,7 @@ x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: 
+contact_note:
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
@@ -126,7 +126,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: LTMeyer # blog_name will be displayed in your blog page
 blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
-blog_description: 
+blog_description:
 permalink: # /blog/:year/:title/
 
 # Pagination
@@ -289,7 +289,6 @@ display_categories: [] # these categories will be displayed on the front page of
 # -----------------------------------------------------------------------------
 
 scholar:
-
   last_name: [Meyer]
   first_name: [Lucas, L.]
 
