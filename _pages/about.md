@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am researcher and software engineer interested in accelerating science with AI and HPC.
+I am researcher and software engineer currently working for [Polymathic AI](https://polymathic-ai.org/) to accelerate science with AI and HPC.
 
 I completed my PhD in computer science and applied mathematics at Université Grenoble Alpes in partnership with INRIA and EDF. My research, under the supervision of [Bruno Raffin](https://team.inria.fr/datamove/team-members/bruno-raffin/), focused on _training deep learning models for numerical simulation at scale_.
 
