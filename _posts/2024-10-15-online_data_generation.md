@@ -2,7 +2,7 @@
 layout: post
 title: Online Data Generation for Better, Faster, and Cheaper Training
 date: 2024-10-15 
-description: Description
+description: An online training framework design for AI for Science applications.
 tags: 
 categories: 
 ---
