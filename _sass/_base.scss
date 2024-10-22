@@ -19,8 +19,16 @@ strong {
   color: var(--global-text-color);
 }
 
+p, li {
+  text-align: justify;
+}
 hr {
   border-top: 1px solid var(--global-divider-color);
+}
+
+div .intro
+{
+  color: var(--global-text-color-light)
 }
 
 table {
@@ -57,13 +65,24 @@ table.table a {
 }
 
 blockquote {
-  background: var(--global-bg-color);
-  border-left: 5px solid var(--global-theme-color);
+  // background: var(--global-bg-color);
+  border: 3px solid transparent;
+  border-radius: 5px 15px;
+  background-image: linear-gradient(white, white),
+    linear-gradient(
+      155deg,
+      var(--global-theme-color),
+      15%,
+      var(--global-bg-color) 30%,
+    );
+  background-origin: border-box;
+  background-clip: padding-box, border-box;// border-image-slice: 1;
   margin: 1.5em 0;
   padding: 1em;
-  font-size: 1.2rem;
+  font-size: x-large;
 
   p {
+    color: var(--global-theme-color);
     margin-bottom: 0;
   }
 
